@@ -1,0 +1,28 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# --- Virtual Environment ---
+fastapienv/
+
+# --- SQLite Databases ---
+*.db
+
+# --- VSCode ---
+.vscode/
+
+# --- IDE folders ---
+.idea/
+
+# --- Pytest ---
+.pytest_cache/
+
+# --- Environment variables ---
+.env
+*.env
+
+# --- FastAPI / Jinja temp files ---
+*.sqlite3
